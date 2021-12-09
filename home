@@ -1,1 +1,278 @@
+<div class="pace-activity"></div></div>
+<nav class="navbar fixed-top navbar-expand-lg navbar-light">
 
+<a class="navbar-brand" href="../../../">
+<img src="https://tophabbo.fr/v1/image/favicon.png">
+<img src="https://habbofont.net/font/habbo_new/habbnews.gif">
+
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul id="menu-principal" class="navbar-nav mr-auto">
+<li class="menu-item menu-item-type-post_type_archive nav-item">
+<a href="../../../" class="nav-link"><img src="https://www.habborator.org/archive/icons/mini/new_17.gif" alt="Serveur Retro Habbo"> Accueil</a>
+</li>
+<li class="menu-item menu-item-type-post_type_archive nav-item">
+<a href="../../../categories" class="nav-link"><img src="https://www.habborator.org/archive/icons/mini/group_1.gif" alt="Serveur Retro Habbo"> Catégories</a>
+</li>
+<li class="menu-item menu-item-type-post_type_archive nav-item">
+<a href="../../../new" class="nav-link"><img src="https://www.habborator.org/archive/icons/mini/new_09.gif" alt="Serveur Retro Habbo"> Derniers inscrits</a>
+</li>
+<li class="menu-item menu-item-type-post_type_archive nav-item">
+<a href="../../../partenaires" class="nav-link"><img src="https://www.habborator.org/archive/icons/mini/icon_myhabbo.gif" alt="Serveur Retro Habbo"> Partenaires</a>
+</li>
+<li class="menu-item menu-item-type-post_type_archive nav-item">
+<a href="../../../support" class="nav-link"><img src="https://www.habborator.org/archive/icons/mini/chat_betaclient.gif" alt="Serveur Retro Habbo"> Support</a>
+</li>
+</ul>
+<div class="d-flex justify-content-center align-items-center ml-auto mt-3 mt-lg-0">
+<a href="../../../add" class="btn btn-success">Ajouter mon serveur</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tophabbo.fr/login" class="btn btn-primary">Connexion</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</div>
+</nav>
+<main>
+<div class="jumbotron jumbotron-fluid hero">
+<div class="container">
+<span class="float-left mr-4"><img src="https://www.habborator.org/archive/Frank/frank_26.gif" alt="Frank Habbo" title="Frank Habbo"></span>
+
+<h1 class="my-3"><font size="4">Habb'News</font></h1>
+
+<span>Découvre les rétros 2021 avec plusieurs catégorie différentes clique sur le rétro qui te convient !</span>
+</div>
+</div>
+<section>
+<div class="container">
+<div class="section-title">
+</div>
+<div class="row">
+ <div class="col-md-3">
+<h4 class="mb-3">Rechercher</h4>
+<form method="get" action="../../../search">
+<input class="form-control" type="text" name="q" placeholder="Rechercher un serveur" disabled="" value="">
+</form>
+<h4 class="mt-3">Catégories</h4>
+
+<div class="list-group">
+<a href="../../../" class="list-group-item list-group-item-dark list-group-item-action active bg-primary" aria-current="true">
+<img src="https://tophabbo.fr/v1/image/icon/categories/all.gif" alt="Serveur Habbo Rétro"> Tous les rétros</a>
+<a href="../../../retro-r63a" class="list-group-item dark list-group-item-action 
+						">
+<img src="https://tophabbo.fr/v1/image/icon/categories/rp.gif" alt="Serveur Habbo Roleplay"> Roleplay </a>
+<a href="../../../retro-oldschool" class="list-group-item dark list-group-item-action 
+						">
+<img src="https://tophabbo.fr/v1/image/icon/categories/fun.gif" alt="Serveur Habbo Fun"> Fun </a>
+<a href="../../../retro-app" class="list-group-item dark list-group-item-action 
+						">
+<img src="https://tophabbo.fr/v1/image/icon/categories/app.gif" alt="Serveur Habbo Application"> Application </a>
+<a href="../../../retro-html5" class="list-group-item dark list-group-item-action 
+						">
+<img src="https://tophabbo.fr/v1/image/icon/categories/html5.gif" alt="Serveur Habbo HTML5"> HTML5 </a>
+<a href="../../../retro-casino" class="list-group-item dark list-group-item-action 
+						">
+<img src="https://tophabbo.fr/v1/image/icon/categories/casino.gif" alt="Serveur Habbo Casino"> Casino </a>
+<a href="../../../retro-build" class="list-group-item dark list-group-item-action 
+						">
+<img src="https://tophabbo.fr/v1/image/icon/categories/build.gif" alt="Serveur Habbo Build"> Build </a>
+<a href="../../../new" class="list-group-item dark list-group-item-action ">
+<img src="https://tophabbo.fr/v1/image/icon/categories/new.gif" alt="Serveur Habbo Rétro"> Nouveau rétro</a>
+</div>
+<div id="custom_widget_publicidades-2" class="widget widget_custom_widget_publicidades mb-4">
+</div>
+<h4>Partenaires</h4>
+<div class="card text-white">
+<img src="https://www.habborator.org/archive/topstory/valentine_08/300x187_TP_whois.gif" class="card-img" alt="...">
+<div class="card-img-overlay">
+
+<p class="card-text text-white">Tu as une communauté parlant de Habbo ?<br>Et si on alliait nos forces ?</p>
+<a class="btn btn-primary btn-sm" href="https://discord.gg/tT2g7er3Ww">Devenir partenaire</a>
+</div>
+</div> </div>
+<div class="col-md-9">
+<span class="float-right"><img src="https://tophabbo.fr/v1/image/v20_b3.gif" alt="Habbo" title="Habbo"></span>
+<h3>Tout les rétro ! <small>(restant)</small></h3>
+<div class="row">
+<div class="col-sm-12">
+<div class="alert alert-info" style="width: 100%" role="alert"><b>Information :</b> Merci de crée un ticket sur le discord pour avoir votre rétro sur le salon : 
+<u>#rétro</u>.</div>
+</div>
+<div class="col-md-12">
+<div class="alert alert-secondary" style="width: 100%" role="alert">
+<b>Ton serveur n'est pas répertorié ?</b>
+<a href="https://discord.gg/tT2g7er3Ww">Ajoute gratuitement</a> ton serveur Habbo sur notre liste, de nombreux joueurs cherchent un rétro !
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-md-12">
+<div class="card mb-3">
+<div class="row g-0">
+<div class="col-md-3">
+<a href="https://habbocity.me/">
+<img src="https://www.habbocity.me/swfs/c_images/upload/h1488387535bc.png" width="100%" class="img-fluid rounded-start" alt="HabboStore" onerror="this.src='https://tophabbo.fr/v1/image/empty.png'">
+</a>
+<div class="card-info">
+<span class="float-left">
+<i class="fas fa-2x fa-medal mr-2" style="color: #FFD700; font-size:16px;"> <span style="font-family:Montserrat">#1</span></i>
+</span>
+</div>
+</div>
+<div class="col-md-7">
+<div class="card-body">
+<h5 class="card-title">
+<img src="https://tophabbo.fr/v1/image/new_17.gif" alt="Habbo">
+<a href="https://habbocity.me/" data-toggle="tooltip" title="" data-original-title="HabboStore">HabboCity</a>
+</h5>
+<p class="card-text text-muted">HabboCity est un jeu habbo gratuit qui te permet de créer ton propre personnage et d'accéder à un monde où tu pourras y faire des milliers de rencontres. Des animations sont proposées tous les jours par notre équipe d'animateurs. Deviendras-tu le joueur le plus populaire de l'hôtel ?</p>
+<p class="card-text">
+<a href="../../../retro-app" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">Application</a>
+<a href="../../../retro-html5" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">HTML5</a>
+<a href="../../../retro-html5" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">Casino</a>
+<a href="../../../retro-html5" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">Build</a>
+</p>
+<span class="float-right">
+<a class="btn btn-primary mb-3" href="https://habbocity.me/" target="_blank" data-toggle="tooltip" title="" data-original-title="Accéder à HabboStore">
+Jouer <img src="https://tophabbo.fr/v1/image/go_arrow.gif" alt="Accéder à HabboStore" width="30px">
+</a>
+</span>
+</div>
+</div>
+<div class="col-md-12">
+<div class="card mb-3">
+<div class="row g-0">
+<div class="col-md-3">
+<a href="https://habboz.ws/">
+<img src="https://www.habboz.ws/assets/img/HabbozPreview-min.png" width="100%" class="img-fluid rounded-start" alt="HabboStore" onerror="this.src='https://tophabbo.fr/v1/image/empty.png'">
+</a>
+<div class="card-info">
+<span class="float-left">
+<i class="fas fa-2x fa-medal mr-2" style="color: #FFD700; font-size:16px;"> <span style="font-family:Montserrat">#1</span></i>
+</span>
+</div>
+</div>
+<div class="col-md-7">
+<div class="card-body">
+<h5 class="card-title">
+<img src="https://tophabbo.fr/v1/image/new_17.gif" alt="Habbo">
+<a href="https://habboz.ws/" data-toggle="tooltip" title="" data-original-title="HabboStore">Habboz</a>
+</h5>
+<p class="card-text text-muted">Inscris-toi et rejoins GRATUITEMENT Habboz! Tu pourras rencontrer de nouveaux amis, participer à des jeux, tchatter, créer ton avatar, construire des salles et bien plus encore... </p>
+<p class="card-text">
+<a href="../../../retro-app" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">Application</a>
+<a href="../../../retro-html5" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">HTML5</a>
+<a href="../../../retro-html5" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">Casino</a>
+<a href="../../../retro-html5" class="btn btn-outline-primary btn-sm mr-1" style="font-size: 9px">Build</a>
+</p>
+<span class="float-right">
+<a class="btn btn-primary mb-3" href="https://habboz.ws/" target="_blank" data-toggle="tooltip" title="" data-original-title="Accéder à HabboStore">
+Jouer <img src="https://tophabbo.fr/v1/image/go_arrow.gif" alt="Accéder à HabboStore" width="30px">
+</a>
+</span>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<p class="text-center">
+</p><nav aria-label="Page navigation example">
+<ul class="pagination justify-content-center">
+<li class="page-item"><a class="page-link" href="?page=1">1</a></li>
+<li class="page-item"><a class="page-link" href="?page=2">2</a></li>
+<li class="page-item"><a class="page-link" href="?page=3">3</a></li>
+<li class="page-item"><a class="page-link" href="?page=4">4</a></li>
+<li class="page-item"><a class="page-link" href="?page=5">5</a></li>
+<li class="page-item"><a class="page-link" href="?page=6">6</a></li>
+<li class="page-item"><a class="page-link" href="?page=7">7</a></li>
+<li class="page-item"><a class="page-link" href="?page=8">8</a></li>
+<li class="page-item"><a class="page-link" href="?page=9">9</a></li>
+<li class="page-item">
+<a class="page-link" href="?page=2">»</a>
+</li>
+</ul>
+</nav>
+<p></p>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-lg-12 pl-lg-3">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+</section>
+</main>
+<div class="site-footer">
+<div class="container">
+<div class="menu-rodape-container">
+<ul id="menu-rodape" class="menu">
+<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-28 current_page_item menu-item-119"><a href="https://tophabbo.fr/" aria-current="page">Accueil</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="../../../add">Ajouter mon serveur</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="../../../support">Support</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="../../../devlog">Devlog</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="//twitter.com/TopHabboFR" target="_blank" class="text-primary">Twitter @TopHabboFR</a></li>
+</ul>
+</div>
+<div class="mb-3">
+<div class="row">
+<div class="col-md-8">
+<strong>Habb'News</strong> © 2020-2021. Tous les droits sont réservés.
+Ce site n'est pas affilié, parrainé par, soutenu par ou principalement approuvé par Habbo Hotel, Sulake Oy ou ses sociétés affiliées, TopHabbo peut utiliser les marques déposées de Habbo et d'autres propriétés intellectuelles, qui sont autorisées en vertu de la politique des sites de fans Habbo.<br><br>
+Développé par <a href="#"><b><font color="#FFFFFF">Langlam</font></b></a>.
+</div>
+<div class="col-md-4 text-center">
+<a href="https://habbo.fr" target="_blank"><img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Habbo-logo.png/150px-Habbo-logo.png" alt="Habbo Hotel" title="Habbo Hotel"></a>
+<img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Sulake.png/280px-Logo_Sulake.png" alt="Sulake Oy" title="Sulake Oy">
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js?ver=3.4.1"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js?ver=3.4.1"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js?ver=1.16.0"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/jquery.cookie.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/bootstrap.min.js?ver=4.4.1"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/swiper.min.js?ver=5.3.1"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/selectize.min.js?ver=0.12.6"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/moment.min.js?ver=2.22.2"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/jquery.page.js?ver=0.1"></script>
+<script type="text/javascript" src="https://tophabbo.fr/v1/js/main.js?ver=1.0"></script>
+
+</body></html>
